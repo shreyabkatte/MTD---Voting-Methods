@@ -1,0 +1,21 @@
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Arthaud,Asselineau,Cheminade,Dupont-Aignan,Fillon,Hamon,Lassale,LePen,Macron,Melenchon,Poutou
+Arthaud,*,75,81,37,-53,-237,66,-30,-236,-324,-47
+Asselineau,-75,*,8,-43,-124,-287,-14,-97,-303,-358,-107
+Cheminade,-81,-8,*,-49,-134,-302,-18,-111,-317,-360,-116
+Dupont-A.,-37,43,49,*,-89,-258,28,-56,-249,-324,-67
+Fillon,53,124,134,89,*,-157,116,27,-205,-224,9
+Hamon,237,287,302,258,157,*,284,178,-60,-95,202
+Lassale,-66,14,18,-28,-116,-284,*,-96,-291,-340,-105
+LePen,30,97,111,56,-27,-178,96,*,-2811,-243,-11
+Macron,236,303,317,249,205,60,291,211,*,-23,209
+Melenchon,324,358,360,324,224,95,340,243,23,*,295
+Poutou,47,107,116,67,-9,-202,105,11,-209,-295,*
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,Reading the Table:,"For two candidates X (in line) and Y (in column), the number at the intersection of the line and the column",,,,,,,
+,,,,corresponds to the difference between the number of voters who rank candidate X before candidate Y,,,,,,,
+,,,, and the number of voters who rank candidate Y before candidate X. ,,,,,,,
+,,,," If this number is positive, this indicates that candidate X mainly beats candidate Y;",,,,,,,
+,,,," if it is negative, it indicates that candidate Y predominantly defeats candidate X. ",,,,,,,

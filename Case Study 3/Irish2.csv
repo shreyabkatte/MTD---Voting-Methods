@@ -1,0 +1,21 @@
+,Cathal Boland F.G. ,Clare Daly S.P. ,Mick Davis S.F. ,Jim Glennon F.F. ,Ciaran Goulding Non-P ,Michael Kennedy F.F. ,Nora Owen F.G. ,Eamonn Quinn Non-P ,Sean Ryan Lab ,Trevor Sargent G.P. ,David Henry Walshe C.C. Csp ,G.V. Wright F.F. 
+Cathal Boland F.G. ,0,-1753,-2834,815,-2561,413,1464,-3192,2033,2691,-3155,202
+Clare Daly S.P. ,1753,0,-1379,1430,-1468,1280,844,-2369,3105,3998,-2659,986
+Mick Davis S.F. ,2834,1379,0,2302,578,2146,1698,-50,3165,3493,-198,2053
+Jim Glennon F.F. ,-815,-1430,-2302,0,-1936,62,-706,-2671,387,1195,-2704,-483
+Ciaran Goulding Non-P ,2561,1468,-578,1936,0,1712,1741,-1214,3812,4946,-1429,1527
+Michael Kennedy F.F. ,-413,-1280,-2146,-62,-1712,0,-671,-2456,559,1164,-2507,-630
+Nora Owen F.G. ,-1464,-844,-1698,706,-1741,671,0,-2481,1697,2664,-2705,378
+Eamonn Quinn Non-P ,3192,2369,50,2671,1214,2456,2481,0,3963,4970,-1161,2169
+Sean Ryan Lab ,-2033,-3105,-3165,-387,-3812,-559,-1697,-3963,0,136,-4421,-1585
+Trevor Sargent G.P. ,-2691,-3998,-3493,-1195,-4946,-1164,-2664,-4970,-136,0,-5288,-2153
+David Henry Walshe C.C. Csp ,3155,2659,198,2704,1429,2507,2705,1161,4421,5288,0,2222
+G.V. Wright F.F. ,-202,-986,-2053,483,-1527,630,-378,-2169,1585,2153,-2222,0
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Reading the Table:,"For two candidates X (in line) and Y (in column), the number at the intersection of the line and the column",,,,,,,,,,,
+,corresponds to the difference between the number of voters who rank candidate X before candidate Y,,,,,,,,,,,
+, and the number of voters who rank candidate Y before candidate X. ,,,,,,,,,,,
+," If this number is positive, this indicates that candidate X mainly beats candidate Y;",,,,,,,,,,,
+," if it is negative, it indicates that candidate Y predominantly defeats candidate X. ",,,,,,,,,,,
